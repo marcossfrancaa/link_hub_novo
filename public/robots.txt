@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://linkhubcreator.com/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /test/

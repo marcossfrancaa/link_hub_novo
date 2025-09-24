@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(npm install)",
+      "Bash(npm cache clean:*)",
+      "Bash(npm install:*)",
+      "Bash(npm start)",
+      "Bash(npm run dev:*)",
+      "Bash(npx:*)",
+      "Bash(npm config:*)",
+      "Bash(npm config set:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(pkill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

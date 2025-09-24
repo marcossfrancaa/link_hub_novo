@@ -1,0 +1,1 @@
+// Este componente não é mais necessário pois corrigimos o sistema de autenticação
